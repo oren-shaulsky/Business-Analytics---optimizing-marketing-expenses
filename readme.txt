@@ -1,4 +1,4 @@
-The project contains explorary data analysis, cohort analysis, work with business metrics (CAC, LTV, ROI etc.)
+The project contains exploratory data analysis, cohort analysis, work with business metrics (CAC, LTV, ROI etc.)
 
 Description of the files:
 
